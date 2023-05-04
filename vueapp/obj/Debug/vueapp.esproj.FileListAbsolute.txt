@@ -1,0 +1,2 @@
+C:\Users\filip\Documents\GitHub\Printer\vueapp\obj\Debug\vueapp.esproj.SuggestedBindingRedirects.cache
+C:\Users\filip\Documents\GitHub\Printer\vueapp\obj\Debug\vueapp.esproj.CoreCompileInputs.cache
